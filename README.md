@@ -28,3 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ![image](https://github.com/ferdiansyah783/Level-3-Tugas-10/assets/68723369/e405e5fa-acd0-4386-8843-a50cd0dd806e)
 
+# Edit modal
+![image](https://github.com/ferdiansyah783/Level-3-Tugas-10/assets/68723369/5cea4e6c-7c35-4259-abc1-ee9e1639ecf2)
+
+
